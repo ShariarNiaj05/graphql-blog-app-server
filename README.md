@@ -17,4 +17,11 @@
   - published
   - publishAt
 - User
+  - id
+  - name
+  - email
+  - password
+  - createAt
+  - updateAt
+  - profile
 - Profile
