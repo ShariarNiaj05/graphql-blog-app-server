@@ -25,3 +25,8 @@
   - updateAt
   - profile
 - Profile
+  - id
+  - bio
+  - createAt
+  - updateAt
+  - userId
