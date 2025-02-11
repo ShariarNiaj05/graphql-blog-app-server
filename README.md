@@ -8,5 +8,13 @@
 ## Table
 
 - Post
+  - id
+  - title
+  - content
+  - authorId
+  - createdAt
+  - updatedAt
+  - published
+  - publishAt
 - User
 - Profile
